@@ -1,0 +1,57 @@
+#logo{
+	font-family: 'Viaoda Libre', cursive;
+	font-size: 30px;
+	font-style: bold;
+
+}
+
+.carousel-item active img{
+width: 100%;
+}
+.sec4 p{
+text-align: center;
+}
+.sec6{
+	color:  #ff00bf;
+	background-color:   #e6e6e6;
+
+}
+.sec6 a{
+color: #cc0099;
+}
+.sec8 h2{
+text-align: center;
+color: #cc0099;
+}
+.sec8 div{
+text-align: center;
+
+}
+
+.sec9 h2{
+text-align: center;
+color: #cc0099;
+}
+.fa-facebook-square {
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+}
+.fa-twitter-square{
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+}
+.fa-youtube{
+	text-align: center;
+	color: red;
+	font-size: 40px;
+}
+.fa-instagram{
+	text-align: center;
+	color: rgb(255, 0, 232);
+	font-size: 40px;
+}
+.sec10 h5{
+color: #cc0099;
+}
